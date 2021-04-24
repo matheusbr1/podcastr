@@ -24,6 +24,7 @@ $ yarn (or npm) dev
 ### Built with
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
+  <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
   <li><a href="https://nextjs.org/">Next JS</a></li>
   <li><a href="https://sass-lang.com/">Sass</a></li>
   <li><a href="https://github.com/typicode/json-server">json-server</a></li>
